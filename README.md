@@ -31,7 +31,7 @@
 ### Apart from work
 I like to spend my time in learning 📖, interating👨‍👧‍👦 and wandering 🚶‍♂️
 
-<h3>To get to know more about me 📫, and if you want to say hi. 😄</h3>
+<h3>To get to know more about me </h3>
 
 <a href = "https://www.linkedin.com/in/saihitesh/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 <a href = "https://www.facebook.com/hitesh.sai.961" target = "_self"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "Facebook" border = "0"/> </a>
