@@ -29,7 +29,7 @@
 
 
 ### Apart from work
-I like to spend my time in learning 📖, interating👨‍👧‍👦 and wandering 🚶‍♂️
+I like to spend my time in learning 📖, interacting👨‍👧‍👦 and wandering 🚶‍♂️
 
 <h3>To get to know more about me </h3>
 
