@@ -1,7 +1,7 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h3>
 
-<p>Welcome to my page! </br> I'm Hitesh, Solution Engineer from <b>Andhra Pradesh, India</b> 🇮🇳, currently living in <b>NYC, USA</b>. </p>
+<p>Welcome to my page! I'm Hitesh, Solution Engineer from <b>India</b>, currently working at Microsoft in <b>NYC, USA</b>. </p>
 
 
 <h3>🚀 Skills</h3>
