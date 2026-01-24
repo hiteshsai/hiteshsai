@@ -118,7 +118,7 @@ I'm a passionate Security Solution Engineer working at Microsoft, helping custom
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshsai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiteshsai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Achievements"/>
 </div>
 
 <br/>
@@ -129,7 +129,7 @@ I'm a passionate Security Solution Engineer working at Microsoft, helping custom
   <tr>
     <td align="center" width="50%">
       <h3>🎯 Core Values</h3>
-      <ul align="left">
+      <ul>
         <li>🔐 <b>Security First</b> - Prioritizing protection in every solution</li>
         <li>💯 <b>Excellence</b> - Delivering high-quality, robust solutions</li>
         <li>🚀 <b>Innovation</b> - Staying ahead of evolving threats</li>
@@ -138,7 +138,7 @@ I'm a passionate Security Solution Engineer working at Microsoft, helping custom
     </td>
     <td align="center" width="50%">
       <h3>💡 Work Approach</h3>
-      <ul align="left">
+      <ul>
         <li>📊 <b>Data-Driven</b> - Making informed security decisions</li>
         <li>🎓 <b>Continuous Learning</b> - Keeping skills current</li>
         <li>🌐 <b>Customer-Focused</b> - Understanding business needs</li>
@@ -171,9 +171,7 @@ When I'm not architecting security solutions or responding to threats, I invest 
 
 <div align="center">
 
-```
-💡 Problem Solver  |  🎯 Results-Driven  |  🤝 Team Player  |  📈 Growth Mindset
-```
+**💡 Problem Solver  |  🎯 Results-Driven  |  🤝 Team Player  |  📈 Growth Mindset**
 
 </div>
 
