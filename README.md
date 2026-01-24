@@ -18,6 +18,25 @@ I'm a passionate Security Solution Engineer working at Microsoft, helping custom
 
 <br/>
 
+## 🌟 Professional Highlights
+
+<div align="center">
+
+### Core Competencies
+
+🔐 **Security Architecture** | ☁️ **Cloud Security** | 🛡️ **Threat Detection** | 🚨 **Incident Response**
+
+</div>
+
+- 🎯 **Microsoft Security Expert** - Implementing enterprise-grade security solutions for Fortune 500 clients
+- 🏅 **Zero-Trust Advocate** - Designing and deploying zero-trust architectures in cloud environments
+- 🔍 **Threat Hunter** - Experience with SIEM/SOAR platforms and advanced threat intelligence
+- 🌐 **Multi-Cloud Security** - Proficient in securing Azure and AWS cloud infrastructures
+- 🤖 **Security Automation** - Building automated security workflows and incident response playbooks
+- 📊 **Compliance & Governance** - Ensuring regulatory compliance and security best practices
+
+<br/>
+
 ## 🛠️ Technical Skills
 
 ### 🔐 Security & Compliance
@@ -96,29 +115,74 @@ I'm a passionate Security Solution Engineer working at Microsoft, helping custom
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshsai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiteshsai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
-## 💭 What I Care About
+## 💼 Professional Values & Work Style
 
-- 🧑‍🤝‍🧑 **Meaningful Relationships** - Building genuine connections with people
-- 🤝 **Helping Others** - Sharing knowledge and supporting others in their journey
-- 💯 **100% Effort** - Giving my best in everything I do
-- 📚 **Continuous Learning** - Always staying curious and growing
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Core Values</h3>
+      <ul align="left">
+        <li>🔐 <b>Security First</b> - Prioritizing protection in every solution</li>
+        <li>💯 <b>Excellence</b> - Delivering high-quality, robust solutions</li>
+        <li>🚀 <b>Innovation</b> - Staying ahead of evolving threats</li>
+        <li>🤝 <b>Collaboration</b> - Building strong team relationships</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>💡 Work Approach</h3>
+      <ul align="left">
+        <li>📊 <b>Data-Driven</b> - Making informed security decisions</li>
+        <li>🎓 <b>Continuous Learning</b> - Keeping skills current</li>
+        <li>🌐 <b>Customer-Focused</b> - Understanding business needs</li>
+        <li>⚡ <b>Proactive</b> - Anticipating and preventing issues</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 🎯 Beyond Work
 
-When I'm not coding or architecting solutions, you'll find me:
-- 📖 **Learning** - Exploring new technologies and concepts
-- 👨‍👧‍👦 **Connecting** - Engaging with the tech community
-- 🚶‍♂️ **Exploring** - Discovering new places and experiences
+<div align="center">
+
+**Balancing Technical Excellence with Personal Growth**
+
+</div>
+
+When I'm not architecting security solutions or responding to threats, I invest in:
+
+- 📖 **Professional Development** - Researching emerging security trends, attending conferences, reading security research papers
+- 👨‍👧‍👦 **Community Engagement** - Contributing to security forums, mentoring junior engineers, sharing knowledge
+- 🚶‍♂️ **Personal Wellness** - Maintaining work-life balance through exploration and new experiences
+- 🎤 **Thought Leadership** - Writing about security topics and best practices
+
+<br/>
+
+## 🚀 Why Work With Me?
+
+<div align="center">
+
+```
+💡 Problem Solver  |  🎯 Results-Driven  |  🤝 Team Player  |  📈 Growth Mindset
+```
+
+</div>
+
+✅ **Proven Track Record** - Successfully delivered security solutions for enterprise clients  
+✅ **Technical Depth** - Deep expertise in cloud security, SIEM/SOAR, and threat intelligence  
+✅ **Communication Skills** - Able to explain complex security concepts to technical and non-technical stakeholders  
+✅ **Fast Learner** - Quickly adapt to new technologies and security challenges  
+✅ **Customer Success** - Focused on delivering value and ensuring client satisfaction  
+✅ **24/7 Security Mindset** - Always thinking about protection, detection, and response
 
 <br/>
 
@@ -150,7 +214,21 @@ When I'm not coding or architecting solutions, you'll find me:
 ---
 
 <div align="center">
-  <i>💼 Open to interesting collaborations and opportunities!</i>
+  
+### 💼 Open to New Opportunities!
+
+I'm interested in roles involving **Security Architecture**, **Cloud Security**, **Threat Detection**, and **Security Engineering**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/saihitesh/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+  <i>💌 Always happy to discuss security challenges, collaboration opportunities, or just chat about tech!</i>
   <br/>
-  <i>⭐️ Feel free to star repositories you find interesting!</i>
+  <i>⭐️ If you find my work interesting, consider starring my repositories!</i>
+  
 </div>
