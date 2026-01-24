@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
   <h1>Hey there! 👋 I'm Hitesh</h1>
-  <h3>Solution Engineer @ Microsoft 🚀</h3>
+  <h3>Security Solution Engineer @ Microsoft 🔒</h3>
   <p>📍 NYC, USA | 🏠 From India</p>
 </div>
 
@@ -9,16 +9,34 @@
 
 ## 💫 About Me
 
-I'm a passionate Solution Engineer working at Microsoft, helping customers architect and implement cutting-edge cloud solutions. With a strong background in cloud infrastructure, DevOps practices, and software development, I love solving complex technical challenges and enabling digital transformation.
+I'm a passionate Security Solution Engineer working at Microsoft, helping customers design and implement robust security architectures and solutions. With expertise in cloud security, threat detection, identity management, and compliance, I specialize in protecting organizations from evolving cyber threats while enabling secure digital transformation.
 
-- 🔭 Currently working on cloud architecture and automation solutions
-- 🌱 Always learning new technologies and best practices
-- 💼 Specialized in AWS, Azure, Python, and DevOps tools
-- 🎯 Focused on delivering meaningful impact through technology
+- 🔭 Currently working on cloud security architecture and zero-trust implementations
+- 🌱 Always learning new security technologies and threat mitigation strategies
+- 💼 Specialized in Azure Security, AWS Security, SIEM/SOAR, and Security Automation
+- 🎯 Focused on building resilient security postures and incident response capabilities
 
 <br/>
 
 ## 🛠️ Technical Skills
+
+### 🔐 Security & Compliance
+<p>
+  <img alt="Microsoft Sentinel" src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Microsoft Defender" src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img alt="Crowdstrike" src="https://img.shields.io/badge/CrowdStrike-E01E27?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img alt="Qualys" src="https://img.shields.io/badge/Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white" />
+</p>
+
+### ☁️ Cloud Security
+<p>
+  <img alt="Azure Security Center" src="https://img.shields.io/badge/Azure_Security-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS Security" src="https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure AD" src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="IAM" src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ### ☁️ Cloud & Infrastructure
 <p>
@@ -45,6 +63,22 @@ I'm a passionate Solution Engineer working at Microsoft, helping customers archi
 ### 🗄️ Databases
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛡️ Security Automation & Tools
+<p>
+  <img alt="SOAR" src="https://img.shields.io/badge/SOAR-FF6B00?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
+### 🔍 Threat Intelligence & Analysis
+<p>
+  <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img alt="OSINT" src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=osint&logoColor=white" />
 </p>
 
 <br/>
