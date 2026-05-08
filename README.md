@@ -81,27 +81,6 @@ I'm a Security Product Manager at Microsoft, shaping the strategy, roadmap, and 
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshsai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=hiteshsai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshsai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Achievements"/>
-</div>
-
-<br/>
-
 ## 💼 Values & Working Style
 
 <table align="center">
